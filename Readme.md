@@ -1,1 +1,1 @@
-Primeiro projeto em HTML/CSS feito no curso da alura, não espere muito.
+Primeiro projeto em HTML/CSS, não espere muito.
